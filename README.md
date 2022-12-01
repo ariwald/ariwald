@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ariwald
 - 👀 I’m interested in full stack software development
 - 🌱 I’m currently learning backend development
-- 💞️ I’m looking to collaborate on a dating app
+- 💞️ I’m looking for to collaborating on a dating app
 - 📫 How to reach me @
 
 <!---

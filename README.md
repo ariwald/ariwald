@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Linshi
 - 👀 I’m interested in full stack software development
 - 🌱 I’m currently learning backend development
-- 💞️ I’m looking for to collaborating on a dating app
+- 💞️ I’m looking for to collaborating on apps
 - 📫 How to reach me @
 
 <!---
